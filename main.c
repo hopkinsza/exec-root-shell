@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: 0BSD
+ */
+
 #include <err.h>
 #include <grp.h>
 #include <unistd.h>

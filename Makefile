@@ -1,3 +1,7 @@
+#
+# SPDX-License-Identifier: 0BSD
+#
+
 PROG = main
 SRCS = main.c
 
