@@ -11,4 +11,4 @@ This tiny project is licensed under the 0BSD license.
 
 See
 http://landley.net/toybox/license.html
-if you're curious.
+for the history and rationale of this license.
